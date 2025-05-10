@@ -1,0 +1,253 @@
+[
+  {
+    "question": "¿Qué forma de gobierno adopta la Nación Argentina?",
+    "answer": "Una forma representativa, republicana y federal.",
+    "articles": [1]
+  },
+  {
+    "question": "¿Qué culto sostiene el Gobierno federal?",
+    "answer": "El culto católico apostólico romano.",
+    "articles": [2]
+  },
+  {
+    "question": "¿Dónde residen las autoridades del Gobierno federal?",
+    "answer": "En la ciudad que el Congreso declare Capital, previa cesión provincial.",
+    "articles": [3]
+  },
+  {
+    "question": "¿Con qué fondos provee el Gobierno federal los gastos de la Nación?",
+    "answer": "Con el Tesoro nacional formado por derechos de importación y exportación, tierras nacionales, renta de Correos, contribuciones que imponga el Congreso y empréstitos autorizados.",
+    "articles": [4]
+  },
+  {
+    "question": "¿Qué deben asegurar las provincias en sus propias constituciones?",
+    "answer": "Administración de justicia, régimen municipal y educación primaria bajo el sistema representativo republicano y los principios de la Constitución Nacional.",
+    "articles": [5]
+  },
+  {
+    "question": "¿En qué casos puede el Gobierno federal intervenir en una provincia?",
+    "answer": "Para garantizar la forma republicana, repeler invasiones exteriores o, a petición de la provincia, restablecer sus autoridades legítimas.",
+    "articles": [6]
+  },
+  {
+    "question": "¿Qué validez tienen los actos públicos de una provincia en las demás?",
+    "answer": "Gozan de entera fe en todo el territorio nacional.",
+    "articles": [7]
+  },
+  {
+    "question": "¿Qué derechos tienen los ciudadanos de una provincia en otra?",
+    "answer": "Gozan de todos los derechos, privilegios e inmunidades de los ciudadanos y rige la extradición recíproca de criminales.",
+    "articles": [8]
+  },
+  {
+    "question": "¿Cuántas aduanas puede haber en el territorio nacional?",
+    "answer": "Sólo las aduanas nacionales establecidas por el Congreso.",
+    "articles": [9]
+  },
+  {
+    "question": "¿Es libre la circulación de productos nacionales dentro de la República?",
+    "answer": "Sí, sin derechos internos.",
+    "articles": [10]
+  },
+  {
+    "question": "¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?",
+    "answer": "No, están prohibidos los derechos de tránsito.",
+    "articles": [11]
+  },
+  {
+    "question": "¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?",
+    "answer": "No, y no puede haber preferencias entre puertos.",
+    "articles": [12]
+  },
+  {
+    "question": "¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?",
+    "answer": "No; se requiere consentimiento de la Legislatura provincial y del Congreso.",
+    "articles": [13]
+  },
+  {
+    "question": "Mencione dos derechos reconocidos en el artículo 14.",
+    "answer": "Por ejemplo: trabajar y publicar ideas por la prensa sin censura previa.",
+    "articles": [14]
+  },
+  {
+    "question": "¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?",
+    "answer": "Una jornada limitada y descanso y vacaciones pagados.",
+    "articles": ["14 bis"]
+  },
+  {
+    "question": "¿Existen esclavos en la Nación Argentina según la Constitución?",
+    "answer": "No, la esclavitud está abolida y los pocos esclavos existentes quedaron libres al sancionarse la Constitución.",
+    "articles": [15]
+  },
+  {
+    "question": "¿Reconoce la Constitución títulos de nobleza?",
+    "answer": "No; todos los habitantes son iguales ante la ley y no hay títulos de nobleza.",
+    "articles": [16]
+  },
+  {
+    "question": "¿Qué requisito establece la Constitución para expropiar una propiedad?",
+    "answer": "Debe haber causa de utilidad pública declarada por ley y previa indemnización.",
+    "articles": [17]
+  },
+  {
+    "question": "¿Puede alguien ser penado sin juicio previo fundado en ley?",
+    "answer": "No; está prohibido.",
+    "articles": [18]
+  },
+  {
+    "question": "¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?",
+    "answer": "Las acciones privadas que no perjudiquen a terceros ni ofendan el orden o la moral pública.",
+    "articles": [19]
+  },
+  {
+    "question": "¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?",
+    "answer": "No están obligados a hacerlo.",
+    "articles": [20]
+  },
+  {
+    "question": "¿Está obligado un ciudadano argentino a armarse en defensa de la patria?",
+    "answer": "Sí, conforme a las leyes que dicte el Congreso.",
+    "articles": [21]
+  },
+  {
+    "question": "¿Puede el pueblo deliberar o gobernar directamente?",
+    "answer": "No; sólo por medio de sus representantes, de lo contrario es sedición.",
+    "articles": [22]
+  },
+  {
+    "question": "Durante el estado de sitio, ¿puede el Presidente aplicar penas?",
+    "answer": "No; sólo puede arrestar o trasladar personas.",
+    "articles": [23]
+  },
+  {
+    "question": "¿Qué institución judicial debe promover el Congreso según el artículo 24?",
+    "answer": "El juicio por jurados.",
+    "articles": [24]
+  },
+  {
+    "question": "¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?",
+    "answer": "No; debe fomentarla y no puede gravarla.",
+    "articles": [25]
+  },
+  {
+    "question": "¿Es libre la navegación de los ríos interiores para todas las banderas?",
+    "answer": "Sí, sujeta a reglamentos nacionales.",
+    "articles": [26]
+  },
+  {
+    "question": "¿Qué obliga al Gobierno federal respecto de tratados internacionales?",
+    "answer": "Afianzar relaciones de paz y comercio mediante tratados conformes a los principios constitucionales.",
+    "articles": [27]
+  },
+  {
+    "question": "¿Pueden las leyes alterar los principios y garantías de la Constitución?",
+    "answer": "No; las leyes que reglamenten su ejercicio no pueden alterarlos.",
+    "articles": [28]
+  },
+  {
+    "question": "¿Puede el Congreso conceder la suma del poder público al Ejecutivo?",
+    "answer": "No; tales actos son nulos y constituyen traición a la patria.",
+    "articles": [29]
+  },
+  {
+    "question": "¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?",
+    "answer": "El voto de dos tercios de los miembros de cada Cámara.",
+    "articles": [30]
+  },
+  {
+    "question": "¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?",
+    "answer": "Conforman la ley suprema de la Nación.",
+    "articles": [31]
+  },
+  {
+    "question": "¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?",
+    "answer": "No; está expresamente prohibido.",
+    "articles": [32]
+  },
+  {
+    "question": "¿Puede un juez federal ser simultáneamente juez provincial?",
+    "answer": "No; la Constitución lo prohíbe.",
+    "articles": [34]
+  },
+  {
+    "question": "¿Qué nombres oficiales puede usar la Nación Argentina?",
+    "answer": "Provincias Unidas del Río de la Plata, República Argentina, Confederación Argentina o Nación Argentina.",
+    "articles": [35]
+  },
+  {
+    "question": "¿Qué derecho ambiental reconoce la Constitución?",
+    "answer": "El derecho a un ambiente sano, equilibrado y apto para el desarrollo humano.",
+    "articles": [41]
+  },
+  {
+    "question": "¿Cómo es el sufragio según la Constitución?",
+    "answer": "Universal, igual, secreto y obligatorio.",
+    "articles": [37]
+  },
+  {
+    "question": "¿Qué son los partidos políticos para la Constitución?",
+    "answer": "Instituciones fundamentales del sistema democrático.",
+    "articles": [38]
+  },
+  {
+    "question": "¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?",
+    "answer": "Presentar proyectos de ley ante la Cámara de Diputados mediante iniciativa popular.",
+    "articles": [39]
+  },
+  {
+    "question": "¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?",
+    "answer": "Convierte el proyecto en ley y su promulgación es automática.",
+    "articles": [40]
+  },
+
+  {
+    "question": "¿Cuál es la capital de Francia según la Constitución Argentina?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Quién ganó la Copa Mundial de Fútbol de 1978?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Cuál es la fórmula química del agua según la Constitución?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Qué dice la Constitución acerca de los eclipses solares?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Cómo se calcula el interés compuesto según la Constitución Argentina?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Dónde ubica la Constitución las Cataratas del Iguazú?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  },
+  {
+    "question": "¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?",
+    "answer": "No tengo información sobre esto.",
+    "articles": []
+  }
+]

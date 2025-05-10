@@ -1,0 +1,292 @@
+[
+  {
+    "question": "¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?",
+    "answer": "En caso de ataque exterior, el Presidente puede declarar el estado de sitio por un término limitado, con acuerdo del Senado. En caso de conmoción interior sólo puede hacerlo cuando el Congreso está en receso, debiendo convocarlo inmediatamente para su tratamiento.",
+    "articles": [23, 61, 99]
+  },
+  {
+    "question": "Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.",
+    "answer": "La Cámara de Diputados formula la acusación con el voto de dos tercios de los presentes (art. 53). El Senado, presidido por el Presidente de la Corte si el acusado es el Presidente y prestando juramento sus miembros, juzga en juicio público y requiere dos tercios de los presentes para condenar (art. 59). El fallo sólo puede destituir e inhabilitar para cargos públicos, dejando al acusado sujeto a la justicia ordinaria (art. 60).",
+    "articles": [53, 59, 60]
+  },
+  {
+    "question": "Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",
+    "answer": "El Presidente puede decretar la intervención federal en receso del Congreso (art. 99 inc. 20). Debe simultáneamente convocar al Congreso, al que corresponde aprobar o revocar la intervención (art. 75 inc. 31).",
+    "articles": [6, 75, 99]
+  },
+  {
+    "question": "¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?",
+    "answer": "El Congreso debe declarar la necesidad de la reforma con el voto de al menos dos tercios de cada Cámara (art. 30). La reforma se efectúa luego exclusivamente por una Convención convocada al efecto, sin participación legislativa ordinaria.",
+    "articles": [30]
+  },
+  {
+    "question": "Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?",
+    "answer": "Debe aprobarse por mayoría absoluta del total de los miembros de cada Cámara, según la segunda parte del artículo 77.",
+    "articles": [77]
+  },
+  {
+    "question": "Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).",
+    "answer": "Sólo pueden dictarse cuando circunstancias excepcionales impidan el trámite legislativo ordinario y no versen sobre materia penal, tributaria, electoral ni de partidos políticos. Deben ser decididos en acuerdo general de ministros y refrendados por el Jefe de Gabinete, quien los remite en 10 días a la Comisión Bicameral Permanente. Esta tiene 10 días para dictaminar y elevar a cada Cámara, que debe tratarlos de inmediato.",
+    "articles": [99]
+  },
+  {
+    "question": "¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?",
+    "answer": "Debe basarse en acuerdos Nación‑provincias, garantizar automaticidad de remisión, equidad, solidaridad y prioridad al desarrollo equilibrado; tiene origen en el Senado y se sanciona con mayoría absoluta de la totalidad de los miembros de cada Cámara.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?",
+    "answer": "Reconoce preexistencia étnica y cultural, personería jurídica, posesión y propiedad comunitaria de tierras, educación bilingüe, participación en la gestión de recursos y entrega de otras tierras aptas. Las provincias pueden ejercer concurrentemente esas atribuciones.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?",
+    "answer": "Es proclamada si obtiene más del 45 % de los votos afirmativos válidos, o al menos 40 % con más de 10 puntos de diferencia sobre la segunda fórmula. De lo contrario, se realiza segunda vuelta entre las dos más votadas.",
+    "articles": [94, 97, 98]
+  },
+  {
+    "question": "Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.",
+    "answer": "Puede ser interpelado por cualquiera de las Cámaras; la moción de censura requiere el voto de la mayoría absoluta de la totalidad de sus miembros y la remoción, idéntica mayoría en cada Cámara.",
+    "articles": [101]
+  },
+  {
+    "question": "¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?",
+    "answer": "La delegación sólo procede en materias determinadas de administración o emergencia pública; queda prohibida fuera de esas áreas. Caduca al vencer el plazo sin que ello afecte las relaciones jurídicas nacidas bajo las normas delegadas.",
+    "articles": [76]
+  },
+  {
+    "question": "¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?",
+    "answer": "Se requiere la aprobación de una ley por mayoría simple, dado que el artículo 75 inc. 28 atribuye al Congreso esa facultad sin fijar una mayoría calificada.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?",
+    "answer": "La condena sólo implica la destitución e inhabilitación; el acusado sigue sujeto a acusación y juicio penal ante los tribunales ordinarios.",
+    "articles": [60]
+  },
+  {
+    "question": "¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?",
+    "answer": "El control corresponde al Congreso y se ejerce a través de la Auditoría General de la Nación, organismo de asistencia técnica con autonomía funcional cuyo presidente debe ser propuesto por el partido de oposición con mayor número de legisladores.",
+    "articles": [85]
+  },
+  {
+    "question": "¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?",
+    "answer": "La Nación dicta los presupuestos mínimos de protección; las provincias complementan esas normas sin alterar jurisdicciones locales. Ambas deben preservar el ambiente y la diversidad biológica.",
+    "articles": [41, 124]
+  },
+  {
+    "question": "Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.",
+    "answer": "El amparo procede contra actos u omisiones que lesionen derechos constitucionales cuando no haya vía judicial más idónea; el hábeas corpus procede ante lesión o amenaza a la libertad física, agravamiento ilegítimo de la detención o desaparición forzada, con resolución inmediata del juez.",
+    "articles": [43]
+  },
+  {
+    "question": "¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?",
+    "answer": "Prohíbe conceder facultades extraordinarias o la suma del poder público al Ejecutivo; tales actos son insanablemente nulos y quienes los otorguen o ejerciten son responsables y sujetos a la pena de infames traidores a la patria.",
+    "articles": [29]
+  },
+  {
+    "question": "Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",
+    "answer": "Sólo si tienen autonomía normativa y su aprobación parcial no altera el espíritu ni la unidad del proyecto sancionado; en tal caso se aplica el procedimiento de DNU.",
+    "articles": [80, 99]
+  },
+  {
+    "question": "Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.",
+    "answer": "Son propuestos en terna vinculante por el Consejo de la Magistratura y nombrados por el Presidente con acuerdo del Senado. Al cumplir 75 años necesitan un nuevo nombramiento, también por 5 años, con idéntico procedimiento.",
+    "articles": [99, 114]
+  },
+  {
+    "question": "¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?",
+    "answer": "Residiendo dos años continuos en la Nación; la autoridad puede acortar el plazo en caso de servicios probados a la República.",
+    "articles": [20]
+  },
+  {
+    "question": "Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?",
+    "answer": "Mayoría absoluta de la totalidad de los miembros de cada Cámara (art. 75 inc. 24, primera parte).",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?",
+    "answer": "No pueden ser arrestados desde su elección hasta el cese salvo ser sorprendidos in fraganti en delito que merezca pena grave; en tal caso se debe informar sumariamente a la Cámara.",
+    "articles": [69]
+  },
+  {
+    "question": "¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?",
+    "answer": "La propiedad es inviolable; la expropiación requiere causa de utilidad pública calificada por ley y previa indemnización.",
+    "articles": [17]
+  },
+  {
+    "question": "¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?",
+    "answer": "Es un órgano independiente con autonomía funcional y autarquía financiera, integrado por el Procurador General, el Defensor General y demás miembros que la ley establezca.",
+    "articles": [120]
+  },
+  {
+    "question": "Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.",
+    "answer": "El Jefe de Gabinete coordina el proyecto de presupuesto en acuerdo de gabinete y lo envía al Congreso; se aprueba como ley ordinaria con mayoría simple salvo disposiciones específicas.",
+    "articles": [100]
+  },
+  {
+    "question": "¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?",
+    "answer": "No pueden celebrar tratados parciales de carácter político, nombrar o recibir agentes extranjeros, ni armar buques de guerra o levantar ejércitos salvo invasión o peligro inminente.",
+    "articles": [126]
+  },
+  {
+    "question": "Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?",
+    "answer": "No, ningún proyecto totalmente desechado por una Cámara puede repetirse en las sesiones de ese año.",
+    "articles": [81]
+  },
+  {
+    "question": "¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?",
+    "answer": "Derechos a salud, seguridad, intereses económicos, información adecuada, libertad de elección y trato digno. El Estado debe protegerlos, educar al consumidor, controlar monopolios y garantizar participación en organismos de control.",
+    "articles": [42]
+  },
+  {
+    "question": "¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?",
+    "answer": "Tres senadores por provincia y por la Ciudad de Buenos Aires; dos bancas para el partido más votado y la tercera para el que le siga en votos.",
+    "articles": [54]
+  },
+  {
+    "question": "¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?",
+    "answer": "Debe ser sancionada con mayoría absoluta de la totalidad de los miembros de cada Cámara y no puede ser modificada unilateralmente ni reglamentada; requiere aprobación de las provincias.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?",
+    "answer": "Prohíbe el ingreso de residuos peligrosos o radiactivos; corresponde a la Nación dictar los presupuestos mínimos y a las provincias complementarlos.",
+    "articles": [41]
+  },
+  {
+    "question": "Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.",
+    "answer": "Garantiza igualdad real de oportunidades entre varones y mujeres para cargos electivos y partidarios mediante acciones positivas en la regulación de partidos y régimen electoral.",
+    "articles": [37]
+  },
+  {
+    "question": "¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?",
+    "answer": "Tienen jerarquía constitucional; sólo pueden ser denunciados por el Ejecutivo con aprobación de dos tercios de cada Cámara.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",
+    "answer": "El Congreso autoriza la declaración de guerra (art. 75 inc. 25). El Presidente, como comandante en jefe, puede disponer las fuerzas armadas y declarar represalias según lo autorizado.",
+    "articles": [75, 99]
+  },
+  {
+    "question": "¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?",
+    "answer": "La iniciativa popular (art. 39) y la consulta popular (art. 40). No se admite iniciativa sobre reforma constitucional, tratados internacionales, tributos, presupuesto ni materia penal.",
+    "articles": [39, 40]
+  },
+  {
+    "question": "Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?",
+    "answer": "Se basa en el artículo 43: puede acceder a los datos, conocer su finalidad y exigir supresión, rectificación, confidencialidad o actualización si son falsos o discriminatorios.",
+    "articles": [43]
+  },
+  {
+    "question": "¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?",
+    "answer": "Mayoría simple de ambas Cámaras, pues el art. 75 inc. 31 atribuye al Congreso la facultad sin fijar mayoría especial.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?",
+    "answer": "El Consejo de la Magistratura selecciona mediante concursos públicos, propone ternas vinculantes, administra recursos, dicta reglamentos y puede disponer apertura de proceso de remoción y suspensión de magistrados.",
+    "articles": [114]
+  },
+  {
+    "question": "Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.",
+    "answer": "El art. 110 establece que la compensación de los jueces no puede ser disminuida mientras permanezcan en sus funciones, asegurando intangibilidad.",
+    "articles": [110]
+  },
+  {
+    "question": "¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?",
+    "answer": "La circulación es libre de derechos; se prohíben derechos de tránsito y preferencias portuarias entre provincias.",
+    "articles": [10, 11, 12]
+  },
+  {
+    "question": "¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?",
+    "answer": "La pena no pasa de la persona del delincuente ni se transmite a sus parientes; lo establece el art. 119.",
+    "articles": [119]
+  },
+  {
+    "question": "Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.",
+    "answer": "Vuelve a Cámara de origen; si se insiste con dos tercios pasa a la revisora, que también necesita dos tercios. Si ambas logran esa mayoría, es ley y se promulga.",
+    "articles": [83]
+  },
+  {
+    "question": "¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?",
+    "answer": "Todo acto presidencial carece de eficacia sin la firma del ministro competente (art. 100), quien es responsable individualmente por los que legaliza y solidariamente por los acordados en gabinete (art. 102).",
+    "articles": [100, 102]
+  },
+  {
+    "question": "¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?",
+    "answer": "La octava disposición transitoria dispone que la legislación delegada sin plazo caducará a los cinco años salvo ratificación expresa del Congreso.",
+    "articles": ["DT8", 76]
+  },
+  {
+    "question": "Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.",
+    "answer": "La disposición transitoria decimosexta ordena que el 24 de agosto de 1994 los miembros de los tres poderes y autoridades provinciales juren la Constitución reformada.",
+    "articles": ["DT16"]
+  },
+  {
+    "question": "¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?",
+    "answer": "Debe tener 30 años, seis de ciudadanía y renta anual de 2000 pesos fuertes o equivalente; regular en el art. 55.",
+    "articles": [55]
+  },
+  {
+    "question": "Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",
+    "answer": "El Congreso determina qué funcionario ejercerá la Presidencia hasta que cese la causa de inhabilidad o se elija nuevo presidente.",
+    "articles": [88]
+  },
+  {
+    "question": "¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?",
+    "answer": "Debe basarse en el programa general de gobierno y plan de inversiones públicas, respetando la distribución de competencias y la coparticipación.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?",
+    "answer": "Nulidad insanable de sus actos, sanción del art. 29, inhabilitación perpetua, exclusión de indulto y prescripción, y derecho de resistencia de los ciudadanos.",
+    "articles": [36, 29]
+  },
+  {
+    "question": "Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.",
+    "answer": "El art. 41 reconoce derecho a ambiente sano y establece que el daño ambiental generará prioritariamente la obligación de recomponer, según la ley.",
+    "articles": [41]
+  },
+  {
+    "question": "¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?",
+    "answer": "Sesiones ordinarias del 1º de marzo al 30 de noviembre; cada Cámara necesita mayoría absoluta de sus miembros para sesionar y no puede suspenderse más de tres días sin consentimiento de la otra.",
+    "articles": [63, 64, 65]
+  },
+  {
+    "question": "¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?",
+    "answer": "Garantiza condiciones dignas, jornada limitada, descanso, salario mínimo, participación en ganancias, protección contra despido, estabilidad del empleado público, organización sindical y derecho de huelga; el Estado otorga seguridad social integral.",
+    "articles": [14]
+  },
+  {
+    "question": "¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?",
+    "answer": "Un diputado cada 33 000 habitantes o fracción no menor de 16 500; el Congreso ajusta la representación tras cada censo, que sólo puede renovarse cada 10 años.",
+    "articles": [45, 47]
+  },
+  {
+    "question": "¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?",
+    "answer": "Dispone, organiza y distribuye las fuerzas; provee empleos militares con acuerdo del Senado para oficiales superiores; declara guerra con autorización del Congreso.",
+    "articles": [75, 99]
+  },
+  {
+    "question": "¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?",
+    "answer": "Tiene legislación exclusiva para fines específicos de establecimientos de utilidad nacional; autoridades provinciales y municipales conservan poderes de policía e imposición en tanto no interfieran con dichos fines.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",
+    "answer": "Equidad, solidaridad, relación directa con competencias, prioridad a igualdad de oportunidades y desarrollo equivalente.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?",
+    "answer": "Prohíbe censura previa (art. 14) y estipula que el Congreso federal no dictará leyes que restrinjan la libertad de imprenta ni establezcan jurisdicción federal sobre ella (art. 32).",
+    "articles": [14, 32]
+  },
+  {
+    "question": "¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?",
+    "answer": "Se necesita consentimiento de la Legislatura de las provincias interesadas y del Congreso; no puede erigirse una provincia en territorio de otra sin ese acuerdo.",
+    "articles": [13]
+  }
+]
