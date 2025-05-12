@@ -31,7 +31,7 @@
   },
   {
     "question": "¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?",
-    "answer": "Debe basarse en acuerdos Nación‑provincias, garantizar automaticidad de remisión, equidad, solidaridad y prioridad al desarrollo equilibrado; tiene origen en el Senado y se sanciona con mayoría absoluta de la totalidad de los miembros de cada Cámara.",
+    "answer": "Debe basarse en acuerdos Nación-provincias, garantizar automaticidad de remisión, equidad, solidaridad y prioridad al desarrollo equilibrado; tiene origen en el Senado y se sanciona con mayoría absoluta de la totalidad de los miembros de cada Cámara.",
     "articles": [75]
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "question": "¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?",
-    "answer": "Es proclamada si obtiene más del 45 % de los votos afirmativos válidos, o al menos 40 % con más de 10 puntos de diferencia sobre la segunda fórmula. De lo contrario, se realiza segunda vuelta entre las dos más votadas.",
+    "answer": "Es proclamada si obtiene más del 45% de los votos afirmativos válidos, o al menos 40% con más de 10 puntos de diferencia sobre la segunda fórmula. De lo contrario, se realiza segunda vuelta entre las dos más votadas.",
     "articles": [94, 97, 98]
   },
   {
@@ -166,12 +166,12 @@
   },
   {
     "question": "¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",
-    "answer": "El Congreso autoriza la declaración de guerra (art. 75 inc. 25). El Presidente, como comandante en jefe, puede disponer las fuerzas armadas y declarar represalias según lo autorizado.",
+    "answer": "El Congreso autoriza la declaración de guerra (art. 75 inc. 25). El Presidente, como comandante en jefe, puede disponer las fuerzas armadas y declarar represalias según lo autorizado.",
     "articles": [75, 99]
   },
   {
     "question": "¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?",
-    "answer": "La iniciativa popular (art. 39) y la consulta popular (art. 40). No se admite iniciativa sobre reforma constitucional, tratados internacionales, tributos, presupuesto ni materia penal.",
+    "answer": "La iniciativa popular (art. 39) y la consulta popular (art. 40). No se admite iniciativa sobre reforma constitucional, tratados internacionales, tributos, presupuesto ni materia penal.",
     "articles": [39, 40]
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "question": "¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?",
-    "answer": "Mayoría simple de ambas Cámaras, pues el art. 75 inc. 31 atribuye al Congreso la facultad sin fijar mayoría especial.",
+    "answer": "Mayoría simple de ambas Cámaras, pues el art. 75 inc. 31 atribuye al Congreso la facultad sin fijar mayoría especial.",
     "articles": [75]
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "question": "Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.",
-    "answer": "El art. 110 establece que la compensación de los jueces no puede ser disminuida mientras permanezcan en sus funciones, asegurando intangibilidad.",
+    "answer": "El art. 110 establece que la compensación de los jueces no puede ser disminuida mientras permanezcan en sus funciones, asegurando intangibilidad.",
     "articles": [110]
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "question": "Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.",
-    "answer": "El art. 41 reconoce derecho a ambiente sano y establece que el daño ambiental generará prioritariamente la obligación de recomponer, según la ley.",
+    "answer": "El art. 41 reconoce derecho a ambiente sano y establece que el daño ambiental generará prioritariamente la obligación de recomponer, según la ley.",
     "articles": [41]
   },
   {
@@ -255,13 +255,13 @@
     "articles": [63, 64, 65]
   },
   {
-    "question": "¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?",
+    "question": "¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?",
     "answer": "Garantiza condiciones dignas, jornada limitada, descanso, salario mínimo, participación en ganancias, protección contra despido, estabilidad del empleado público, organización sindical y derecho de huelga; el Estado otorga seguridad social integral.",
     "articles": [14]
   },
   {
     "question": "¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?",
-    "answer": "Un diputado cada 33 000 habitantes o fracción no menor de 16 500; el Congreso ajusta la representación tras cada censo, que sólo puede renovarse cada 10 años.",
+    "answer": "Un diputado cada 33000 habitantes o fracción no menor de 16500; el Congreso ajusta la representación tras cada censo, que sólo puede renovarse cada 10 años.",
     "articles": [45, 47]
   },
   {
@@ -281,12 +281,52 @@
   },
   {
     "question": "¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?",
-    "answer": "Prohíbe censura previa (art. 14) y estipula que el Congreso federal no dictará leyes que restrinjan la libertad de imprenta ni establezcan jurisdicción federal sobre ella (art. 32).",
+    "answer": "Prohíbe censura previa (art. 14) y estipula que el Congreso federal no dictará leyes que restrinjan la libertad de imprenta ni establezcan jurisdicción federal sobre ella (art. 32).",
     "articles": [14, 32]
   },
   {
     "question": "¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?",
     "answer": "Se necesita consentimiento de la Legislatura de las provincias interesadas y del Congreso; no puede erigirse una provincia en territorio de otra sin ese acuerdo.",
     "articles": [13]
+  },
+  {
+    "question": "¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?",
+    "answer": "Se necesita consentimiento de la Legislatura de las provincias interesadas y del Congreso; no puede erigirse una provincia en territorio de otra sin ese acuerdo.",
+    "articles": [13]
+  },
+  {
+    "question": "¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?",
+    "answer": "El artículo 43, que consagra la acción de hábeas data, permite solicitar la eliminación de datos personales almacenados en bases públicas o privadas.",
+    "articles": [43]
+  },
+  {
+    "question": "¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?",
+    "answer": "El artículo 75 inciso 22, al incorporar tratados internacionales como la Convención Americana sobre Derechos Humanos, permite la aplicación del derecho al olvido como extensión del derecho a la privacidad.",
+    "articles": [75]
+  },
+  {
+    "question": "¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?",
+    "answer": "El artículo 19, que protege los actos privados de las personas, puede invocarse para cuestionar la vigilancia digital que invade la privacidad sin orden judicial.",
+    "articles": [19]
+  },
+  {
+    "question": "¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?",
+    "answer": "El artículo 18 garantiza la inviolabilidad de la correspondencia y papeles privados, aplicable a la correspondencia digital como el correo electrónico.",
+    "articles": [18]
+  },
+  {
+    "question": "¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?",
+    "answer": "Los artículos 43 y 19 respaldan el derecho a la privacidad y el control sobre los datos personales, incluyendo datos biométricos recolectados digitalmente.",
+    "articles": [43, 19]
+  },
+  {
+    "question": "¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?",
+    "answer": "El artículo 14 garantiza la libertad de expresión, aplicable también a plataformas digitales como redes sociales.",
+    "articles": [14]
+  },
+  {
+    "question": "¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?",
+    "answer": "El artículo 14, al garantizar el derecho a ejercer toda industria lícita y a acceder a la información, puede usarse como base para defender la neutralidad de la red.",
+    "articles": [14]
   }
 ]
