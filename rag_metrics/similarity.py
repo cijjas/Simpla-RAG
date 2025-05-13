@@ -1,4 +1,5 @@
 # rag_metrics/similarity.py
+
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -11,7 +12,7 @@ class EmbeddingModel:
         return self.model.encode(text, convert_to_tensor=True)
 
     def similarity(self, text1, text2):
-        emb1 = self.encode(text1)
-        emb2 = self.encode(text2)
+        emb1 = self.encode(text1).cpu().numpy()  # 🔧 Move to CPU
+        emb2 = self.encode(text2).cpu().numpy()
         sim = cosine_similarity([emb1], [emb2])[0][0]
         return float(sim)

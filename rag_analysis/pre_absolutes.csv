@@ -1,0 +1,691 @@
+experiment,difficulty,question,context_precision,retrieval_prec@5,retrieval_rec@5
+1,easy,¿Qué forma de gobierno adopta la Nación Argentina?,1.0,1.0,1.0
+1,easy,¿Qué culto sostiene el Gobierno federal?,1.0,0.2,1.0
+1,easy,¿Dónde residen las autoridades del Gobierno federal?,1.0,1.0,1.0
+1,easy,¿Con qué fondos provee el Gobierno federal los gastos de la Nación?,1.0,1.0,1.0
+1,easy,¿Qué deben asegurar las provincias en sus propias constituciones?,1.0,1.0,1.0
+1,easy,¿En qué casos puede el Gobierno federal intervenir en una provincia?,1.0,1.0,1.0
+1,easy,¿Qué validez tienen los actos públicos de una provincia en las demás?,0.95,0.8,1.0
+1,easy,¿Qué derechos tienen los ciudadanos de una provincia en otra?,1.0,1.0,1.0
+1,easy,¿Cuántas aduanas puede haber en el territorio nacional?,0.8875,0.8,1.0
+1,easy,¿Es libre la circulación de productos nacionales dentro de la República?,1.0,0.6,1.0
+1,easy,¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?,1.0,0.2,1.0
+1,easy,¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?,0.0,0.0,0.0
+1,easy,¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?,0.8875,0.8,1.0
+1,easy,Mencione dos derechos reconocidos en el artículo 14.,1.0,1.0,1.0
+1,easy,¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?,0.75,0.4,1.0
+1,easy,¿Existen esclavos en la Nación Argentina según la Constitución?,1.0,1.0,1.0
+1,easy,¿Reconoce la Constitución títulos de nobleza?,0.95,0.8,1.0
+1,easy,¿Qué requisito establece la Constitución para expropiar una propiedad?,1.0,1.0,1.0
+1,easy,¿Puede alguien ser penado sin juicio previo fundado en ley?,0.0,0.0,0.0
+1,easy,¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?,0.0,0.0,0.0
+1,easy,¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?,1.0,0.2,1.0
+1,easy,¿Está obligado un ciudadano argentino a armarse en defensa de la patria?,1.0,1.0,1.0
+1,easy,¿Puede el pueblo deliberar o gobernar directamente?,0.9166666666666666,0.6,1.0
+1,easy,"Durante el estado de sitio, ¿puede el Presidente aplicar penas?",0.5,0.2,1.0
+1,easy,¿Qué institución judicial debe promover el Congreso según el artículo 24?,1.0,0.6,1.0
+1,easy,¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?,0.0,0.0,0.0
+1,easy,¿Es libre la navegación de los ríos interiores para todas las banderas?,1.0,1.0,1.0
+1,easy,¿Qué obliga al Gobierno federal respecto de tratados internacionales?,0.7,0.4,1.0
+1,easy,¿Pueden las leyes alterar los principios y garantías de la Constitución?,0.8875,0.8,1.0
+1,easy,¿Puede el Congreso conceder la suma del poder público al Ejecutivo?,1.0,0.2,1.0
+1,easy,¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?,1.0,1.0,1.0
+1,easy,¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?,0.95,0.8,1.0
+1,easy,¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?,0.0,0.0,0.0
+1,easy,¿Puede un juez federal ser simultáneamente juez provincial?,0.7,0.4,1.0
+1,easy,¿Qué nombres oficiales puede usar la Nación Argentina?,1.0,1.0,1.0
+1,easy,¿Qué derecho ambiental reconoce la Constitución?,1.0,1.0,1.0
+1,easy,¿Cómo es el sufragio según la Constitución?,1.0,0.2,1.0
+1,easy,¿Qué son los partidos políticos para la Constitución?,1.0,0.8,1.0
+1,easy,¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?,1.0,1.0,1.0
+1,easy,¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?,0.95,0.8,1.0
+1,easy,¿Cuál es la capital de Francia según la Constitución Argentina?,0.0,0.0,0.0
+1,easy,¿Quién ganó la Copa Mundial de Fútbol de 1978?,0.0,0.0,0.0
+1,easy,¿Cuál es la fórmula química del agua según la Constitución?,0.0,0.0,0.0
+1,easy,¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?,0.0,0.0,0.0
+1,easy,¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?,0.0,0.0,0.0
+1,easy,¿Qué dice la Constitución acerca de los eclipses solares?,0.0,0.0,0.0
+1,easy,¿Cómo se calcula el interés compuesto según la Constitución Argentina?,0.0,0.0,0.0
+1,easy,¿Dónde ubica la Constitución las Cataratas del Iguazú?,0.0,0.0,0.0
+1,easy,"¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",0.0,0.0,0.0
+1,easy,¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?,0.0,0.0,0.0
+1,hard,¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?,1.0,1.0,1.0
+1,hard,Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.,1.0,1.0,1.0
+1,hard,"Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",1.0,1.0,1.0
+1,hard,¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?,1.0,1.0,1.0
+1,hard,Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?,0.7000000000000001,0.6,1.0
+1,hard,Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).,1.0,1.0,1.0
+1,hard,¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?,1.0,1.0,1.0
+1,hard,¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?,1.0,1.0,1.0
+1,hard,¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?,1.0,1.0,1.0
+1,hard,Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.,0.8875,0.8,1.0
+1,hard,¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?,0.8041666666666667,0.8,1.0
+1,hard,¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?,0.6791666666666667,0.8,1.0
+1,hard,¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?,0.8041666666666667,0.8,1.0
+1,hard,¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?,1.0,1.0,1.0
+1,hard,¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?,1.0,1.0,1.0
+1,hard,Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.,1.0,1.0,1.0
+1,hard,¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?,0.8055555555555555,0.6,1.0
+1,hard,"Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",0.8875,0.8,1.0
+1,hard,Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.,1.0,1.0,1.0
+1,hard,¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?,1.0,1.0,1.0
+1,hard,Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?,1.0,0.2,1.0
+1,hard,¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?,0.8333333333333333,0.4,1.0
+1,hard,¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?,1.0,1.0,1.0
+1,hard,¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?,1.0,1.0,1.0
+1,hard,Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.,0.6791666666666667,0.8,1.0
+1,hard,¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?,0.9166666666666666,0.6,1.0
+1,hard,Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?,1.0,0.6,1.0
+1,hard,¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?,1.0,1.0,1.0
+1,hard,¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?,1.0,1.0,1.0
+1,hard,¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?,1.0,1.0,1.0
+1,hard,¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?,0.8666666666666667,0.6,1.0
+1,hard,Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.,0.8875,0.8,1.0
+1,hard,¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?,1.0,1.0,1.0
+1,hard,"¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",1.0,1.0,1.0
+1,hard,¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?,1.0,1.0,1.0
+1,hard,Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?,0.95,0.8,1.0
+1,hard,¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?,0.0,0.0,0.0
+1,hard,¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?,1.0,1.0,1.0
+1,hard,Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.,0.8875,0.8,1.0
+1,hard,¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?,1.0,1.0,1.0
+1,hard,¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?,1.0,0.2,1.0
+1,hard,Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.,1.0,1.0,1.0
+1,hard,¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?,1.0,1.0,1.0
+1,hard,¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?,0.95,0.8,1.0
+1,hard,Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.,0.95,0.8,1.0
+1,hard,¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?,0.7555555555555555,0.6,1.0
+1,hard,"Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",0.8041666666666667,0.8,1.0
+1,hard,¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?,1.0,0.6,1.0
+1,hard,¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?,1.0,1.0,1.0
+1,hard,Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.,1.0,1.0,1.0
+1,hard,¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?,1.0,1.0,1.0
+1,hard,¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?,1.0,1.0,1.0
+1,hard,¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?,1.0,0.8,1.0
+1,hard,¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?,1.0,1.0,1.0
+1,hard,¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?,1.0,1.0,1.0
+1,hard,"¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",1.0,1.0,1.0
+1,hard,¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?,1.0,1.0,1.0
+1,hard,¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?,1.0,1.0,1.0
+1,hard,¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?,0.8666666666666667,0.6,1.0
+1,hard,¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?,1.0,1.0,1.0
+1,hard,¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?,1.0,1.0,1.0
+1,hard,¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?,0.95,0.8,1.0
+1,hard,¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?,1.0,1.0,1.0
+1,hard,¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?,0.8875,0.8,1.0
+1,hard,¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?,1.0,1.0,1.0
+2,easy,¿Qué forma de gobierno adopta la Nación Argentina?,1.0,1.0,1.0
+2,easy,¿Qué culto sostiene el Gobierno federal?,1.0,0.2,1.0
+2,easy,¿Dónde residen las autoridades del Gobierno federal?,1.0,1.0,1.0
+2,easy,¿Con qué fondos provee el Gobierno federal los gastos de la Nación?,0.8875,0.8,1.0
+2,easy,¿Qué deben asegurar las provincias en sus propias constituciones?,1.0,1.0,1.0
+2,easy,¿En qué casos puede el Gobierno federal intervenir en una provincia?,1.0,1.0,1.0
+2,easy,¿Qué validez tienen los actos públicos de una provincia en las demás?,0.4777777777777777,0.6,1.0
+2,easy,¿Qué derechos tienen los ciudadanos de una provincia en otra?,1.0,1.0,1.0
+2,easy,¿Cuántas aduanas puede haber en el territorio nacional?,0.9166666666666666,0.6,1.0
+2,easy,¿Es libre la circulación de productos nacionales dentro de la República?,0.8055555555555555,0.6,1.0
+2,easy,¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?,1.0,0.2,1.0
+2,easy,¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?,0.0,0.0,0.0
+2,easy,¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?,1.0,1.0,1.0
+2,easy,Mencione dos derechos reconocidos en el artículo 14.,1.0,1.0,1.0
+2,easy,¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?,1.0,0.2,1.0
+2,easy,¿Existen esclavos en la Nación Argentina según la Constitución?,1.0,1.0,1.0
+2,easy,¿Reconoce la Constitución títulos de nobleza?,0.8666666666666667,0.6,1.0
+2,easy,¿Qué requisito establece la Constitución para expropiar una propiedad?,1.0,1.0,1.0
+2,easy,¿Puede alguien ser penado sin juicio previo fundado en ley?,0.0,0.0,0.0
+2,easy,¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?,0.25,0.2,1.0
+2,easy,¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?,1.0,0.2,1.0
+2,easy,¿Está obligado un ciudadano argentino a armarse en defensa de la patria?,1.0,1.0,1.0
+2,easy,¿Puede el pueblo deliberar o gobernar directamente?,1.0,1.0,1.0
+2,easy,"Durante el estado de sitio, ¿puede el Presidente aplicar penas?",0.25,0.2,1.0
+2,easy,¿Qué institución judicial debe promover el Congreso según el artículo 24?,0.8055555555555555,0.6,1.0
+2,easy,¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?,0.0,0.0,0.0
+2,easy,¿Es libre la navegación de los ríos interiores para todas las banderas?,1.0,1.0,1.0
+2,easy,¿Qué obliga al Gobierno federal respecto de tratados internacionales?,0.25,0.2,1.0
+2,easy,¿Pueden las leyes alterar los principios y garantías de la Constitución?,0.6388888888888888,0.6,1.0
+2,easy,¿Puede el Congreso conceder la suma del poder público al Ejecutivo?,0.5,0.4,1.0
+2,easy,¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?,1.0,1.0,1.0
+2,easy,¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?,1.0,0.8,1.0
+2,easy,¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?,0.0,0.0,0.0
+2,easy,¿Puede un juez federal ser simultáneamente juez provincial?,0.75,0.4,1.0
+2,easy,¿Qué nombres oficiales puede usar la Nación Argentina?,1.0,1.0,1.0
+2,easy,¿Qué derecho ambiental reconoce la Constitución?,1.0,1.0,1.0
+2,easy,¿Cómo es el sufragio según la Constitución?,0.5,0.2,1.0
+2,easy,¿Qué son los partidos políticos para la Constitución?,0.8875,0.8,1.0
+2,easy,¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?,1.0,1.0,1.0
+2,easy,¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?,0.95,0.8,1.0
+2,easy,¿Cuál es la capital de Francia según la Constitución Argentina?,0.0,0.0,0.0
+2,easy,¿Quién ganó la Copa Mundial de Fútbol de 1978?,0.0,0.0,0.0
+2,easy,¿Cuál es la fórmula química del agua según la Constitución?,0.0,0.0,0.0
+2,easy,¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?,0.0,0.0,0.0
+2,easy,¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?,0.0,0.0,0.0
+2,easy,¿Qué dice la Constitución acerca de los eclipses solares?,0.0,0.0,0.0
+2,easy,¿Cómo se calcula el interés compuesto según la Constitución Argentina?,0.0,0.0,0.0
+2,easy,¿Dónde ubica la Constitución las Cataratas del Iguazú?,0.0,0.0,0.0
+2,easy,"¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",0.0,0.0,0.0
+2,easy,¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?,0.0,0.0,0.0
+2,hard,¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?,1.0,1.0,1.0
+2,hard,Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.,1.0,1.0,1.0
+2,hard,"Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",1.0,1.0,1.0
+2,hard,¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?,1.0,1.0,1.0
+2,hard,Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?,0.8055555555555555,0.6,1.0
+2,hard,Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).,1.0,1.0,1.0
+2,hard,¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?,1.0,1.0,1.0
+2,hard,¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?,1.0,1.0,1.0
+2,hard,¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?,1.0,1.0,1.0
+2,hard,Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.,0.8055555555555555,0.6,1.0
+2,hard,¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?,0.8041666666666667,0.8,1.0
+2,hard,¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?,0.5888888888888889,0.6,1.0
+2,hard,¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?,1.0,1.0,1.0
+2,hard,¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?,1.0,1.0,1.0
+2,hard,¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?,1.0,1.0,1.0
+2,hard,Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.,0.95,0.8,1.0
+2,hard,¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?,0.5,0.2,1.0
+2,hard,"Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",0.8041666666666667,0.8,1.0
+2,hard,Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.,1.0,1.0,1.0
+2,hard,¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?,1.0,1.0,1.0
+2,hard,Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?,0.9166666666666666,0.6,1.0
+2,hard,¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?,0.7555555555555555,0.6,1.0
+2,hard,¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?,0.95,0.8,1.0
+2,hard,¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?,0.8875,0.8,1.0
+2,hard,Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.,0.8041666666666667,0.8,1.0
+2,hard,¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?,0.95,0.8,1.0
+2,hard,Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?,1.0,0.6,1.0
+2,hard,¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?,1.0,1.0,1.0
+2,hard,¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?,1.0,1.0,1.0
+2,hard,¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?,1.0,1.0,1.0
+2,hard,¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?,0.8666666666666667,0.6,1.0
+2,hard,Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.,0.95,0.8,1.0
+2,hard,¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?,1.0,1.0,1.0
+2,hard,"¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",1.0,1.0,1.0
+2,hard,¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?,1.0,1.0,1.0
+2,hard,Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?,1.0,1.0,1.0
+2,hard,¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?,0.25,0.2,1.0
+2,hard,¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?,1.0,1.0,1.0
+2,hard,Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.,0.8875,0.8,1.0
+2,hard,¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?,1.0,1.0,1.0
+2,hard,¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?,1.0,0.2,1.0
+2,hard,Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.,1.0,1.0,1.0
+2,hard,¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?,1.0,1.0,1.0
+2,hard,¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?,1.0,0.8,1.0
+2,hard,Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.,0.8875,0.8,1.0
+2,hard,¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?,0.7555555555555555,0.6,1.0
+2,hard,"Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",0.8875,0.8,1.0
+2,hard,¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?,0.4777777777777777,0.6,1.0
+2,hard,¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?,1.0,1.0,1.0
+2,hard,Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.,1.0,1.0,1.0
+2,hard,¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?,0.95,0.8,1.0
+2,hard,¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?,0.95,0.8,1.0
+2,hard,¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?,1.0,0.6,1.0
+2,hard,¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?,1.0,1.0,1.0
+2,hard,¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?,1.0,1.0,1.0
+2,hard,"¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",1.0,1.0,1.0
+2,hard,¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?,1.0,1.0,1.0
+2,hard,¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?,1.0,1.0,1.0
+2,hard,¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?,1.0,1.0,1.0
+2,hard,¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?,1.0,1.0,1.0
+2,hard,¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?,1.0,1.0,1.0
+2,hard,¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?,1.0,1.0,1.0
+2,hard,¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?,1.0,1.0,1.0
+2,hard,¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?,1.0,1.0,1.0
+2,hard,¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?,1.0,1.0,1.0
+3,easy,¿Qué forma de gobierno adopta la Nación Argentina?,1.0,1.0,1.0
+3,easy,¿Qué culto sostiene el Gobierno federal?,0.7,0.4,1.0
+3,easy,¿Dónde residen las autoridades del Gobierno federal?,1.0,1.0,1.0
+3,easy,¿Con qué fondos provee el Gobierno federal los gastos de la Nación?,1.0,1.0,1.0
+3,easy,¿Qué deben asegurar las provincias en sus propias constituciones?,1.0,1.0,1.0
+3,easy,¿En qué casos puede el Gobierno federal intervenir en una provincia?,1.0,1.0,1.0
+3,easy,¿Qué validez tienen los actos públicos de una provincia en las demás?,1.0,0.6,1.0
+3,easy,¿Qué derechos tienen los ciudadanos de una provincia en otra?,0.8875,0.8,1.0
+3,easy,¿Cuántas aduanas puede haber en el territorio nacional?,1.0,1.0,1.0
+3,easy,¿Es libre la circulación de productos nacionales dentro de la República?,1.0,1.0,1.0
+3,easy,¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?,1.0,0.6,1.0
+3,easy,¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?,1.0,0.2,1.0
+3,easy,¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?,1.0,1.0,1.0
+3,easy,Mencione dos derechos reconocidos en el artículo 14.,1.0,1.0,1.0
+3,easy,¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?,0.8333333333333333,0.4,1.0
+3,easy,¿Existen esclavos en la Nación Argentina según la Constitución?,1.0,1.0,1.0
+3,easy,¿Reconoce la Constitución títulos de nobleza?,1.0,1.0,1.0
+3,easy,¿Qué requisito establece la Constitución para expropiar una propiedad?,1.0,1.0,1.0
+3,easy,¿Puede alguien ser penado sin juicio previo fundado en ley?,0.0,0.0,0.0
+3,easy,¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?,1.0,0.4,1.0
+3,easy,¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?,0.2,0.2,1.0
+3,easy,¿Está obligado un ciudadano argentino a armarse en defensa de la patria?,1.0,0.8,1.0
+3,easy,¿Puede el pueblo deliberar o gobernar directamente?,0.8041666666666667,0.8,1.0
+3,easy,"Durante el estado de sitio, ¿puede el Presidente aplicar penas?",0.8333333333333333,0.4,1.0
+3,easy,¿Qué institución judicial debe promover el Congreso según el artículo 24?,1.0,0.8,1.0
+3,easy,¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?,0.25,0.2,1.0
+3,easy,¿Es libre la navegación de los ríos interiores para todas las banderas?,1.0,1.0,1.0
+3,easy,¿Qué obliga al Gobierno federal respecto de tratados internacionales?,0.7555555555555555,0.6,1.0
+3,easy,¿Pueden las leyes alterar los principios y garantías de la Constitución?,1.0,1.0,1.0
+3,easy,¿Puede el Congreso conceder la suma del poder público al Ejecutivo?,0.5833333333333333,0.4,1.0
+3,easy,¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?,1.0,1.0,1.0
+3,easy,¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?,1.0,1.0,1.0
+3,easy,¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?,0.0,0.0,0.0
+3,easy,¿Puede un juez federal ser simultáneamente juez provincial?,0.7000000000000001,0.6,1.0
+3,easy,¿Qué nombres oficiales puede usar la Nación Argentina?,1.0,1.0,1.0
+3,easy,¿Qué derecho ambiental reconoce la Constitución?,1.0,1.0,1.0
+3,easy,¿Cómo es el sufragio según la Constitución?,0.7,0.4,1.0
+3,easy,¿Qué son los partidos políticos para la Constitución?,1.0,1.0,1.0
+3,easy,¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?,1.0,1.0,1.0
+3,easy,¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?,1.0,1.0,1.0
+3,easy,¿Cuál es la capital de Francia según la Constitución Argentina?,0.0,0.0,0.0
+3,easy,¿Quién ganó la Copa Mundial de Fútbol de 1978?,0.25,0.2,1.0
+3,easy,¿Cuál es la fórmula química del agua según la Constitución?,0.0,0.0,0.0
+3,easy,¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?,0.0,0.0,0.0
+3,easy,¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?,0.0,0.0,0.0
+3,easy,¿Qué dice la Constitución acerca de los eclipses solares?,1.0,0.4,1.0
+3,easy,¿Cómo se calcula el interés compuesto según la Constitución Argentina?,0.0,0.0,0.0
+3,easy,¿Dónde ubica la Constitución las Cataratas del Iguazú?,0.0,0.0,0.0
+3,easy,"¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",0.8333333333333333,0.4,1.0
+3,easy,¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?,0.0,0.0,0.0
+3,hard,¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?,1.0,1.0,1.0
+3,hard,Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.,1.0,1.0,1.0
+3,hard,"Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",1.0,1.0,1.0
+3,hard,¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?,1.0,1.0,1.0
+3,hard,Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?,0.5,0.2,1.0
+3,hard,Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).,1.0,1.0,1.0
+3,hard,¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?,1.0,1.0,1.0
+3,hard,¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?,1.0,1.0,1.0
+3,hard,¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?,1.0,1.0,1.0
+3,hard,Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.,0.8875,0.8,1.0
+3,hard,¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?,1.0,1.0,1.0
+3,hard,¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?,1.0,1.0,1.0
+3,hard,¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?,1.0,0.8,1.0
+3,hard,¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?,1.0,1.0,1.0
+3,hard,¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?,1.0,1.0,1.0
+3,hard,Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.,1.0,1.0,1.0
+3,hard,¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?,0.5833333333333333,0.4,1.0
+3,hard,"Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",1.0,1.0,1.0
+3,hard,Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.,1.0,0.8,1.0
+3,hard,¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?,1.0,1.0,1.0
+3,hard,Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?,0.8055555555555555,0.6,1.0
+3,hard,¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?,1.0,1.0,1.0
+3,hard,¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?,1.0,1.0,1.0
+3,hard,¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?,1.0,1.0,1.0
+3,hard,Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.,1.0,1.0,1.0
+3,hard,¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?,1.0,0.8,1.0
+3,hard,Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?,1.0,1.0,1.0
+3,hard,¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?,1.0,1.0,1.0
+3,hard,¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?,1.0,1.0,1.0
+3,hard,¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?,1.0,1.0,1.0
+3,hard,¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?,0.8875,0.8,1.0
+3,hard,Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.,0.8041666666666667,0.8,1.0
+3,hard,¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?,1.0,1.0,1.0
+3,hard,"¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",1.0,1.0,1.0
+3,hard,¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?,1.0,1.0,1.0
+3,hard,Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?,1.0,1.0,1.0
+3,hard,¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?,0.75,0.4,1.0
+3,hard,¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?,1.0,1.0,1.0
+3,hard,Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.,1.0,1.0,1.0
+3,hard,¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?,1.0,1.0,1.0
+3,hard,¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?,0.8875,0.8,1.0
+3,hard,Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.,1.0,1.0,1.0
+3,hard,¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?,1.0,1.0,1.0
+3,hard,¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?,1.0,1.0,1.0
+3,hard,Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.,1.0,1.0,1.0
+3,hard,¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?,0.9166666666666666,0.6,1.0
+3,hard,"Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",1.0,1.0,1.0
+3,hard,¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?,0.8055555555555555,0.6,1.0
+3,hard,¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?,1.0,1.0,1.0
+3,hard,Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.,1.0,1.0,1.0
+3,hard,¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?,1.0,1.0,1.0
+3,hard,¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?,0.95,0.8,1.0
+3,hard,¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?,0.8875,0.8,1.0
+3,hard,¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?,1.0,1.0,1.0
+3,hard,¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?,1.0,1.0,1.0
+3,hard,"¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",0.5,0.4,1.0
+3,hard,¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?,1.0,1.0,1.0
+3,hard,¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?,1.0,1.0,1.0
+3,hard,¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?,0.8333333333333333,0.4,1.0
+3,hard,¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?,1.0,1.0,1.0
+3,hard,¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?,1.0,1.0,1.0
+3,hard,¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?,0.8041666666666667,0.8,1.0
+3,hard,¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?,1.0,1.0,1.0
+3,hard,¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?,1.0,1.0,1.0
+3,hard,¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?,1.0,1.0,1.0
+4,easy,¿Qué forma de gobierno adopta la Nación Argentina?,0.95,0.8,1.0
+4,easy,¿Qué culto sostiene el Gobierno federal?,1.0,0.2,1.0
+4,easy,¿Dónde residen las autoridades del Gobierno federal?,1.0,0.8,1.0
+4,easy,¿Con qué fondos provee el Gobierno federal los gastos de la Nación?,1.0,1.0,1.0
+4,easy,¿Qué deben asegurar las provincias en sus propias constituciones?,1.0,1.0,1.0
+4,easy,¿En qué casos puede el Gobierno federal intervenir en una provincia?,1.0,1.0,1.0
+4,easy,¿Qué validez tienen los actos públicos de una provincia en las demás?,0.7,0.4,1.0
+4,easy,¿Qué derechos tienen los ciudadanos de una provincia en otra?,1.0,1.0,1.0
+4,easy,¿Cuántas aduanas puede haber en el territorio nacional?,1.0,1.0,1.0
+4,easy,¿Es libre la circulación de productos nacionales dentro de la República?,0.95,0.8,1.0
+4,easy,¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?,1.0,0.4,1.0
+4,easy,¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?,0.8055555555555555,0.6,1.0
+4,easy,¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?,0.8041666666666667,0.8,1.0
+4,easy,Mencione dos derechos reconocidos en el artículo 14.,0.9166666666666666,0.6,1.0
+4,easy,¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?,0.7000000000000001,0.6,1.0
+4,easy,¿Existen esclavos en la Nación Argentina según la Constitución?,1.0,1.0,1.0
+4,easy,¿Reconoce la Constitución títulos de nobleza?,0.8041666666666667,0.8,1.0
+4,easy,¿Qué requisito establece la Constitución para expropiar una propiedad?,0.95,0.8,1.0
+4,easy,¿Puede alguien ser penado sin juicio previo fundado en ley?,0.0,0.0,0.0
+4,easy,¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?,0.5,0.2,1.0
+4,easy,¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?,0.0,0.0,0.0
+4,easy,¿Está obligado un ciudadano argentino a armarse en defensa de la patria?,1.0,1.0,1.0
+4,easy,¿Puede el pueblo deliberar o gobernar directamente?,0.8875,0.8,1.0
+4,easy,"Durante el estado de sitio, ¿puede el Presidente aplicar penas?",1.0,0.2,1.0
+4,easy,¿Qué institución judicial debe promover el Congreso según el artículo 24?,1.0,1.0,1.0
+4,easy,¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?,1.0,0.2,1.0
+4,easy,¿Es libre la navegación de los ríos interiores para todas las banderas?,1.0,0.8,1.0
+4,easy,¿Qué obliga al Gobierno federal respecto de tratados internacionales?,1.0,1.0,1.0
+4,easy,¿Pueden las leyes alterar los principios y garantías de la Constitución?,1.0,1.0,1.0
+4,easy,¿Puede el Congreso conceder la suma del poder público al Ejecutivo?,0.7,0.4,1.0
+4,easy,¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?,1.0,1.0,1.0
+4,easy,¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?,1.0,1.0,1.0
+4,easy,¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?,0.0,0.0,0.0
+4,easy,¿Puede un juez federal ser simultáneamente juez provincial?,0.3333333333333333,0.2,1.0
+4,easy,¿Qué nombres oficiales puede usar la Nación Argentina?,1.0,1.0,1.0
+4,easy,¿Qué derecho ambiental reconoce la Constitución?,1.0,1.0,1.0
+4,easy,¿Cómo es el sufragio según la Constitución?,1.0,0.2,1.0
+4,easy,¿Qué son los partidos políticos para la Constitución?,1.0,0.8,1.0
+4,easy,¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?,1.0,1.0,1.0
+4,easy,¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?,1.0,0.6,1.0
+4,easy,¿Cuál es la capital de Francia según la Constitución Argentina?,0.0,0.0,0.0
+4,easy,¿Quién ganó la Copa Mundial de Fútbol de 1978?,0.0,0.0,0.0
+4,easy,¿Cuál es la fórmula química del agua según la Constitución?,0.0,0.0,0.0
+4,easy,¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?,0.0,0.0,0.0
+4,easy,¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?,0.0,0.0,0.0
+4,easy,¿Qué dice la Constitución acerca de los eclipses solares?,0.5,0.2,1.0
+4,easy,¿Cómo se calcula el interés compuesto según la Constitución Argentina?,0.0,0.0,0.0
+4,easy,¿Dónde ubica la Constitución las Cataratas del Iguazú?,0.5,0.2,1.0
+4,easy,"¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",1.0,0.2,1.0
+4,easy,¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?,0.0,0.0,0.0
+4,hard,¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?,1.0,1.0,1.0
+4,hard,Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.,1.0,1.0,1.0
+4,hard,"Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",1.0,1.0,1.0
+4,hard,¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?,1.0,1.0,1.0
+4,hard,Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?,0.7,0.4,1.0
+4,hard,Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).,1.0,1.0,1.0
+4,hard,¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?,1.0,1.0,1.0
+4,hard,¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?,0.7555555555555555,0.6,1.0
+4,hard,¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?,1.0,1.0,1.0
+4,hard,Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.,0.8666666666666667,0.6,1.0
+4,hard,¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?,1.0,1.0,1.0
+4,hard,¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?,0.6791666666666667,0.8,1.0
+4,hard,¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?,1.0,1.0,1.0
+4,hard,¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?,0.95,0.8,1.0
+4,hard,¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?,1.0,1.0,1.0
+4,hard,Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.,1.0,0.8,1.0
+4,hard,¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?,1.0,1.0,1.0
+4,hard,"Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",1.0,1.0,1.0
+4,hard,Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.,1.0,1.0,1.0
+4,hard,¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?,1.0,1.0,1.0
+4,hard,Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?,0.8055555555555555,0.6,1.0
+4,hard,¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?,1.0,1.0,1.0
+4,hard,¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?,1.0,1.0,1.0
+4,hard,¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?,1.0,1.0,1.0
+4,hard,Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.,1.0,1.0,1.0
+4,hard,¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?,1.0,1.0,1.0
+4,hard,Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?,1.0,1.0,1.0
+4,hard,¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?,1.0,1.0,1.0
+4,hard,¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?,1.0,1.0,1.0
+4,hard,¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?,1.0,1.0,1.0
+4,hard,¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?,1.0,1.0,1.0
+4,hard,Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.,1.0,1.0,1.0
+4,hard,¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?,1.0,1.0,1.0
+4,hard,"¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",1.0,1.0,1.0
+4,hard,¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?,1.0,1.0,1.0
+4,hard,Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?,1.0,0.6,1.0
+4,hard,¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?,0.6388888888888888,0.6,1.0
+4,hard,¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?,1.0,1.0,1.0
+4,hard,Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.,1.0,1.0,1.0
+4,hard,¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?,1.0,1.0,1.0
+4,hard,¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?,0.8875,0.8,1.0
+4,hard,Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.,1.0,1.0,1.0
+4,hard,¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?,0.8041666666666667,0.8,1.0
+4,hard,¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?,0.8875,0.8,1.0
+4,hard,Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.,1.0,1.0,1.0
+4,hard,¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?,1.0,0.8,1.0
+4,hard,"Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",1.0,1.0,1.0
+4,hard,¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?,1.0,0.8,1.0
+4,hard,¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?,0.95,0.8,1.0
+4,hard,Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.,0.8041666666666667,0.8,1.0
+4,hard,¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?,1.0,1.0,1.0
+4,hard,¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?,1.0,1.0,1.0
+4,hard,¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?,1.0,1.0,1.0
+4,hard,¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?,0.8875,0.8,1.0
+4,hard,¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?,1.0,1.0,1.0
+4,hard,"¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",0.9166666666666666,0.6,1.0
+4,hard,¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?,1.0,1.0,1.0
+4,hard,¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?,1.0,1.0,1.0
+4,hard,¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?,0.8055555555555555,0.6,1.0
+4,hard,¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?,1.0,1.0,1.0
+4,hard,¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?,0.8875,0.8,1.0
+4,hard,¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?,1.0,0.8,1.0
+4,hard,¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?,1.0,1.0,1.0
+4,hard,¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?,1.0,0.8,1.0
+4,hard,¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?,1.0,1.0,1.0
+5,easy,¿Qué forma de gobierno adopta la Nación Argentina?,0.9060405643738976,0.9,1.0
+5,easy,¿Qué culto sostiene el Gobierno federal?,0.625,0.2,1.0
+5,easy,¿Dónde residen las autoridades del Gobierno federal?,0.92826278659612,0.9,1.0
+5,easy,¿Con qué fondos provee el Gobierno federal los gastos de la Nación?,1.0,1.0,1.0
+5,easy,¿Qué deben asegurar las provincias en sus propias constituciones?,1.0,1.0,1.0
+5,easy,¿En qué casos puede el Gobierno federal intervenir en una provincia?,1.0,1.0,1.0
+5,easy,¿Qué validez tienen los actos públicos de una provincia en las demás?,0.5911111111111111,0.5,1.0
+5,easy,¿Qué derechos tienen los ciudadanos de una provincia en otra?,1.0,1.0,1.0
+5,easy,¿Cuántas aduanas puede haber en el territorio nacional?,1.0,0.9,1.0
+5,easy,¿Es libre la circulación de productos nacionales dentro de la República?,0.8972222222222221,0.6,1.0
+5,easy,¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?,0.7,0.5,1.0
+5,easy,¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?,0.7041666666666666,0.4,1.0
+5,easy,¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?,0.8412257495590829,0.9,1.0
+5,easy,Mencione dos derechos reconocidos en el artículo 14.,0.7972789115646258,0.7,1.0
+5,easy,¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?,0.6644444444444444,0.5,1.0
+5,easy,¿Existen esclavos en la Nación Argentina según la Constitución?,1.0,1.0,1.0
+5,easy,¿Reconoce la Constitución títulos de nobleza?,0.8010204081632653,0.7,1.0
+5,easy,¿Qué requisito establece la Constitución para expropiar una propiedad?,0.8552579365079365,0.8,1.0
+5,easy,¿Puede alguien ser penado sin juicio previo fundado en ley?,0.0,0.0,0.0
+5,easy,¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?,0.3869047619047618,0.3,1.0
+5,easy,¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?,0.1736111111111111,0.2,1.0
+5,easy,¿Está obligado un ciudadano argentino a armarse en defensa de la patria?,0.9415178571428572,0.8,1.0
+5,easy,¿Puede el pueblo deliberar o gobernar directamente?,0.8782627865961198,0.9,1.0
+5,easy,"Durante el estado de sitio, ¿puede el Presidente aplicar penas?",0.5262896825396826,0.4,1.0
+5,easy,¿Qué institución judicial debe promover el Congreso según el artículo 24?,1.0,1.0,1.0
+5,easy,¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?,1.0,0.1,1.0
+5,easy,¿Es libre la navegación de los ríos interiores para todas las banderas?,0.92826278659612,0.9,1.0
+5,easy,¿Qué obliga al Gobierno federal respecto de tratados internacionales?,0.9626543209876544,0.9,1.0
+5,easy,¿Pueden las leyes alterar los principios y garantías de la Constitución?,1.0,0.9,1.0
+5,easy,¿Puede el Congreso conceder la suma del poder público al Ejecutivo?,0.5438888888888889,0.5,1.0
+5,easy,¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?,1.0,1.0,1.0
+5,easy,¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?,1.0,1.0,1.0
+5,easy,¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?,0.0,0.0,0.0
+5,easy,¿Puede un juez federal ser simultáneamente juez provincial?,0.3063492063492063,0.3,1.0
+5,easy,¿Qué nombres oficiales puede usar la Nación Argentina?,1.0,1.0,1.0
+5,easy,¿Qué derecho ambiental reconoce la Constitución?,0.9888888888888888,0.9,1.0
+5,easy,¿Cómo es el sufragio según la Constitución?,1.0,0.1,1.0
+5,easy,¿Qué son los partidos políticos para la Constitución?,0.9666666666666666,0.5,1.0
+5,easy,¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?,1.0,1.0,1.0
+5,easy,¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?,0.7947278911564626,0.7,1.0
+5,easy,¿Cuál es la capital de Francia según la Constitución Argentina?,0.0,0.0,0.0
+5,easy,¿Quién ganó la Copa Mundial de Fútbol de 1978?,0.1428571428571428,0.1,1.0
+5,easy,¿Cuál es la fórmula química del agua según la Constitución?,0.1,0.1,1.0
+5,easy,¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?,0.0,0.0,0.0
+5,easy,¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?,0.1,0.1,1.0
+5,easy,¿Qué dice la Constitución acerca de los eclipses solares?,0.5,0.1,1.0
+5,easy,¿Cómo se calcula el interés compuesto según la Constitución Argentina?,0.0,0.0,0.0
+5,easy,¿Dónde ubica la Constitución las Cataratas del Iguazú?,0.5,0.1,1.0
+5,easy,"¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",1.0,0.1,1.0
+5,easy,¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?,0.1111111111111111,0.1,1.0
+5,hard,¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?,1.0,0.9,1.0
+5,hard,Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.,1.0,1.0,1.0
+5,hard,"Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",1.0,1.0,1.0
+5,hard,¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?,1.0,0.9,1.0
+5,hard,Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?,0.5571428571428572,0.4,1.0
+5,hard,Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).,1.0,1.0,1.0
+5,hard,¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?,1.0,1.0,1.0
+5,hard,¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?,0.7469246031746031,0.8,1.0
+5,hard,¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?,0.9626543209876544,0.9,1.0
+5,hard,Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.,0.7885912698412698,0.8,1.0
+5,hard,¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?,0.9704861111111112,0.8,1.0
+5,hard,¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?,0.7545918367346939,0.7,1.0
+5,hard,¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?,0.9861111111111112,0.8,1.0
+5,hard,¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?,0.9060405643738976,0.9,1.0
+5,hard,¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?,1.0,1.0,1.0
+5,hard,Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.,0.9317956349206348,0.8,1.0
+5,hard,¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?,0.9325396825396826,0.7,1.0
+5,hard,"Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",1.0,1.0,1.0
+5,hard,Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.,0.952628968253968,0.8,1.0
+5,hard,¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?,0.961734693877551,0.7,1.0
+5,hard,Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?,0.6976190476190476,0.5,1.0
+5,hard,¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?,0.9888888888888888,0.9,1.0
+5,hard,¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?,1.0,1.0,1.0
+5,hard,¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?,0.9159722222222222,0.8,1.0
+5,hard,Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.,1.0,1.0,1.0
+5,hard,¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?,0.952628968253968,0.8,1.0
+5,hard,Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?,1.0,1.0,1.0
+5,hard,¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?,0.9626543209876544,0.9,1.0
+5,hard,¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?,1.0,1.0,1.0
+5,hard,¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?,1.0,1.0,1.0
+5,hard,¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?,0.952628968253968,0.8,1.0
+5,hard,Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.,1.0,1.0,1.0
+5,hard,¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?,1.0,1.0,1.0
+5,hard,"¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",0.9765432098765432,0.9,1.0
+5,hard,¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?,0.9888888888888888,0.9,1.0
+5,hard,Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?,0.7947278911564626,0.7,1.0
+5,hard,¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?,0.5833333333333333,0.5,1.0
+5,hard,¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?,1.0,1.0,1.0
+5,hard,Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.,1.0,1.0,1.0
+5,hard,¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?,1.0,1.0,1.0
+5,hard,¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?,0.8333333333333333,0.7,1.0
+5,hard,Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.,1.0,1.0,1.0
+5,hard,¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?,0.8412257495590829,0.9,1.0
+5,hard,¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?,0.8755456349206348,0.8,1.0
+5,hard,Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.,1.0,1.0,1.0
+5,hard,¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?,0.9428571428571428,0.5,1.0
+5,hard,"Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",1.0,1.0,1.0
+5,hard,¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?,0.8857142857142857,0.6,1.0
+5,hard,¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?,0.9060405643738976,0.9,1.0
+5,hard,Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.,0.7738095238095238,0.7,1.0
+5,hard,¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?,1.0,0.9,1.0
+5,hard,¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?,1.0,0.9,1.0
+5,hard,¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?,0.9472222222222222,0.8,1.0
+5,hard,¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?,0.8782627865961198,0.9,1.0
+5,hard,¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?,1.0,1.0,1.0
+5,hard,"¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",0.7736111111111109,0.6,1.0
+5,hard,¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?,1.0,1.0,1.0
+5,hard,¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?,1.0,1.0,1.0
+5,hard,¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?,0.7291666666666666,0.4,1.0
+5,hard,¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?,1.0,1.0,1.0
+5,hard,¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?,0.8782627865961198,0.9,1.0
+5,hard,¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?,0.855952380952381,0.7,1.0
+5,hard,¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?,0.9159722222222222,0.8,1.0
+5,hard,¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?,0.908531746031746,0.8,1.0
+5,hard,¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?,1.0,1.0,1.0
+6,easy,¿Qué forma de gobierno adopta la Nación Argentina?,0.9060405643738976,0.9,1.0
+6,easy,¿Qué culto sostiene el Gobierno federal?,0.625,0.2,1.0
+6,easy,¿Dónde residen las autoridades del Gobierno federal?,0.92826278659612,0.9,1.0
+6,easy,¿Con qué fondos provee el Gobierno federal los gastos de la Nación?,1.0,1.0,1.0
+6,easy,¿Qué deben asegurar las provincias en sus propias constituciones?,1.0,1.0,1.0
+6,easy,¿En qué casos puede el Gobierno federal intervenir en una provincia?,1.0,1.0,1.0
+6,easy,¿Qué validez tienen los actos públicos de una provincia en las demás?,0.5911111111111111,0.5,1.0
+6,easy,¿Qué derechos tienen los ciudadanos de una provincia en otra?,1.0,1.0,1.0
+6,easy,¿Cuántas aduanas puede haber en el territorio nacional?,1.0,0.9,1.0
+6,easy,¿Es libre la circulación de productos nacionales dentro de la República?,0.8972222222222221,0.6,1.0
+6,easy,¿Pueden imponerse derechos de tránsito a mercaderías entre provincias?,0.7,0.5,1.0
+6,easy,¿Se puede obligar a buques de una provincia a pagar derechos de tránsito en otro puerto?,0.7041666666666666,0.4,1.0
+6,easy,¿Puede crearse una nueva provincia sin consentimiento de la provincia afectada?,0.8412257495590829,0.9,1.0
+6,easy,Mencione dos derechos reconocidos en el artículo 14.,0.8083900226757369,0.7,1.0
+6,easy,¿Qué garantiza el artículo 14 bis respecto de la jornada laboral?,0.6644444444444444,0.5,1.0
+6,easy,¿Existen esclavos en la Nación Argentina según la Constitución?,1.0,1.0,1.0
+6,easy,¿Reconoce la Constitución títulos de nobleza?,0.8010204081632653,0.7,1.0
+6,easy,¿Qué requisito establece la Constitución para expropiar una propiedad?,0.8552579365079365,0.8,1.0
+6,easy,¿Puede alguien ser penado sin juicio previo fundado en ley?,0.0,0.0,0.0
+6,easy,¿Qué acciones están exentas de la autoridad de los magistrados según el artículo 19?,0.3869047619047618,0.3,1.0
+6,easy,¿Deben los extranjeros pagar contribuciones forzosas extraordinarias?,0.1736111111111111,0.2,1.0
+6,easy,¿Está obligado un ciudadano argentino a armarse en defensa de la patria?,0.9415178571428572,0.8,1.0
+6,easy,¿Puede el pueblo deliberar o gobernar directamente?,0.8782627865961198,0.9,1.0
+6,easy,"Durante el estado de sitio, ¿puede el Presidente aplicar penas?",0.5262896825396826,0.4,1.0
+6,easy,¿Qué institución judicial debe promover el Congreso según el artículo 24?,1.0,1.0,1.0
+6,easy,¿Puede el Gobierno federal restringir la entrada de inmigrantes europeos que traigan por objeto labrar la tierra?,1.0,0.1,1.0
+6,easy,¿Es libre la navegación de los ríos interiores para todas las banderas?,0.92826278659612,0.9,1.0
+6,easy,¿Qué obliga al Gobierno federal respecto de tratados internacionales?,0.9626543209876544,0.9,1.0
+6,easy,¿Pueden las leyes alterar los principios y garantías de la Constitución?,1.0,0.9,1.0
+6,easy,¿Puede el Congreso conceder la suma del poder público al Ejecutivo?,0.5438888888888889,0.5,1.0
+6,easy,¿Qué mayoría del Congreso se requiere para declarar la necesidad de reformar la Constitución?,1.0,1.0,1.0
+6,easy,¿Qué jerarquía tienen los tratados con potencias extranjeras junto a la Constitución y las leyes?,1.0,1.0,1.0
+6,easy,¿Puede el Congreso dictar leyes que restrinjan la libertad de imprenta?,0.0,0.0,0.0
+6,easy,¿Puede un juez federal ser simultáneamente juez provincial?,0.3063492063492063,0.3,1.0
+6,easy,¿Qué nombres oficiales puede usar la Nación Argentina?,1.0,1.0,1.0
+6,easy,¿Qué derecho ambiental reconoce la Constitución?,0.9888888888888888,0.9,1.0
+6,easy,¿Cómo es el sufragio según la Constitución?,1.0,0.1,1.0
+6,easy,¿Qué son los partidos políticos para la Constitución?,0.9666666666666666,0.5,1.0
+6,easy,¿Qué derecho tienen los ciudadanos respecto a la iniciativa legislativa?,1.0,1.0,1.0
+6,easy,¿Qué efecto tiene un voto afirmativo del pueblo en una consulta popular vinculante?,0.7947278911564626,0.7,1.0
+6,easy,¿Cuál es la capital de Francia según la Constitución Argentina?,0.0,0.0,0.0
+6,easy,¿Quién ganó la Copa Mundial de Fútbol de 1978?,0.1428571428571428,0.1,1.0
+6,easy,¿Cuál es la fórmula química del agua según la Constitución?,0.1,0.1,1.0
+6,easy,¿Qué temperatura promedio anual menciona la Constitución para la ciudad de Buenos Aires?,0.0,0.0,0.0
+6,easy,¿Cuál es la edad mínima para conducir un automóvil según la Constitución Argentina?,0.1,0.1,1.0
+6,easy,¿Qué dice la Constitución acerca de los eclipses solares?,0.5,0.1,1.0
+6,easy,¿Cómo se calcula el interés compuesto según la Constitución Argentina?,0.0,0.0,0.0
+6,easy,¿Dónde ubica la Constitución las Cataratas del Iguazú?,0.5,0.1,1.0
+6,easy,"¿Quién fue el primer presidente de los Estados Unidos, de acuerdo con la Constitución Argentina?",1.0,0.1,1.0
+6,easy,¿Cuántos artículos tiene la Constitución Mexicana según la Constitución Argentina?,0.1111111111111111,0.1,1.0
+6,hard,¿En qué supuestos puede el Presidente declarar el estado de sitio y qué órgano debe intervenir para convalidarlo según se trate de ataque exterior o conmoción interior?,1.0,0.9,1.0
+6,hard,Explique el procedimiento completo para destituir a un juez de la Corte Suprema y qué efectos produce la sentencia condenatoria del Senado.,1.0,1.0,1.0
+6,hard,"Si una provincia es intervenida federalmente por decreto del Poder Ejecutivo durante el receso del Congreso, ¿qué pasos constitucionales deben seguirse para mantener o revocar esa intervención?",1.0,1.0,1.0
+6,hard,¿Cuál es el mecanismo constitucional para reformar la Constitución y qué mayoría legislativa se requiere en cada etapa?,1.0,0.9,1.0
+6,hard,Una ley pretende modificar el régimen electoral. ¿Qué requisito especial de votación exige la Constitución para su aprobación y qué artículo lo establece?,0.5571428571428572,0.4,1.0
+6,hard,Describa las condiciones y el control parlamentario de los decretos de necesidad y urgencia (DNU).,1.0,1.0,1.0
+6,hard,¿Qué principios deben regir la ley convenio de coparticipación federal y qué mayoría se exige para aprobarla?,1.0,1.0,1.0
+6,hard,¿Qué derechos específicos reconoce la Constitución a los pueblos indígenas y qué nivel de gobierno puede ejercer concurrentemente esas atribuciones?,0.7469246031746031,0.8,1.0
+6,hard,¿Qué requisitos deben cumplirse para que una fórmula presidencial sea proclamada electa en primera vuelta y en qué casos se procede a segunda vuelta?,0.9626543209876544,0.9,1.0
+6,hard,Explique el proceso para remover al Jefe de Gabinete y qué quórum requiere la moción de censura.,0.7885912698412698,0.8,1.0
+6,hard,¿En qué materias está prohibida la delegación legislativa y qué sucede con la normativa delegada una vez vencido el plazo fijado?,0.9704861111111112,0.8,1.0
+6,hard,¿Qué mayoría necesita el Congreso para autorizar la introducción de tropas extranjeras en el territorio nacional y cuál es la base constitucional?,0.7545918367346939,0.7,1.0
+6,hard,¿Qué efectos tiene la condena del Senado en un juicio político respecto de responsabilidad penal posterior?,0.9861111111111112,0.8,1.0
+6,hard,¿Cómo se garantiza la independencia funcional y la imparcialidad del órgano de control externo del Poder Ejecutivo?,0.9060405643738976,0.9,1.0
+6,hard,¿Qué competencias comparten la Nación y las provincias en materia ambiental y cómo se reparten las facultades normativas?,1.0,1.0,1.0
+6,hard,Compare la acción de amparo con el hábeas corpus y explique cuándo procede cada una.,0.9317956349206348,0.8,1.0
+6,hard,¿Qué control establece la Constitución para evitar la concentración del poder público en el Poder Ejecutivo y qué sanción prevé?,0.9325396825396826,0.7,1.0
+6,hard,"Si el Presidente vetó parcialmente un proyecto de ley, ¿en qué casos pueden promulgarse las partes no observadas?",1.0,1.0,1.0
+6,hard,Explique cómo se nombra y ratifica a los magistrados federales inferiores y qué sucede al cumplir 75 años.,0.952628968253968,0.8,1.0
+6,hard,¿Bajo qué condiciones puede un ciudadano extranjero acceder a la nacionalidad argentina por naturalización y qué autoridad puede abreviar el plazo?,0.961734693877551,0.7,1.0
+6,hard,Se propone un tratado de integración con un país latinoamericano que delega jurisdicción a un organismo supraestatal. ¿Qué mayoría parlamentaria se exige para aprobarlo?,0.6976190476190476,0.5,1.0
+6,hard,¿Qué garantías tienen los legisladores respecto de su libertad individual durante su mandato y qué excepción se prevé?,0.9888888888888888,0.9,1.0
+6,hard,¿Qué principio fija la Constitución sobre la inviolabilidad de la propiedad y bajo qué requisitos puede procederse a la expropiación?,1.0,1.0,1.0
+6,hard,¿Cómo se asegura la independencia financiera y funcional del Ministerio Público y quiénes lo integran?,0.9159722222222222,0.8,1.0
+6,hard,Explique el régimen de aprobación para leyes que modifiquen el presupuesto nacional y qué funcionario coordina su envío al Congreso.,1.0,1.0,1.0
+6,hard,¿Qué prohibiciones rigen para las provincias en materia de política exterior y fuerzas armadas?,0.952628968253968,0.8,1.0
+6,hard,Un proyecto de ley es aprobado por la Cámara de origen y luego rechazado totalmente por la revisora. ¿Puede insistirse en ese proyecto en la misma sesión legislativa?,1.0,1.0,1.0
+6,hard,¿Qué derechos reconoce la Constitución a los consumidores y usuarios y qué obligaciones impone al Estado para garantizarlos?,0.9626543209876544,0.9,1.0
+6,hard,¿Cómo se conforma el Senado y qué sistema asegura representación de la primera minoría?,1.0,1.0,1.0
+6,hard,¿Qué pasos prevé la Constitución para que una ley convenio de coparticipación no pueda ser modificada unilateralmente?,1.0,1.0,1.0
+6,hard,¿Qué mecanismos prevé el artículo 41 para prohibir el ingreso de residuos peligrosos al país y a qué autoridad compete dictar normas complementarias?,0.952628968253968,0.8,1.0
+6,hard,Explique el alcance de la cláusula de 'igualdad real' del artículo 37 y cómo se garantiza en la participación política.,1.0,1.0,1.0
+6,hard,¿Cuál es la jerarquía normativa de los tratados de derechos humanos enumerados y qué mayoría requiere su denuncia?,1.0,1.0,1.0
+6,hard,"¿Qué requisitos deben cumplirse para que el Congreso pueda declarar la guerra, y qué facultades complementarias posee el Ejecutivo una vez declarada?",0.9765432098765432,0.9,1.0
+6,hard,¿Qué procedimientos de participación ciudadana directa reconoce la Constitución y cuáles son sus limitaciones temáticas?,0.9888888888888888,0.9,1.0
+6,hard,Un ciudadano presenta acción de hábeas data para acceder y corregir datos en un registro privado. ¿En qué artículo se fundamenta y qué puede solicitar?,0.7947278911564626,0.7,1.0
+6,hard,¿Qué mayoría se requiere para aprobar una ley que disponga la intervención federal de la Ciudad de Buenos Aires?,0.5833333333333333,0.5,1.0
+6,hard,¿Qué órgano selecciona y propone a los magistrados federales y cuáles son sus atribuciones disciplinarias?,1.0,1.0,1.0
+6,hard,Explique cómo se garantiza la intangibilidad de la remuneración de los jueces y dónde se consagra este principio.,1.0,1.0,1.0
+6,hard,¿Qué principio rige la circulación de bienes entre provincias y qué prohibiciones establece respecto de derechos de tránsito?,1.0,1.0,1.0
+6,hard,¿Cómo limita la Constitución los efectos de la pena por traición y en qué artículo se establece?,0.8333333333333333,0.7,1.0
+6,hard,Describa el procedimiento para que el Congreso convierta en ley un proyecto rechazado por el Poder Ejecutivo.,1.0,1.0,1.0
+6,hard,¿Qué requisitos deben cumplir los ministros para ser responsables políticamente de los actos presidenciales que refrendan?,0.8412257495590829,0.9,1.0
+6,hard,¿Qué disposiciones transitorias limitan el uso de legislación delegada preexistente y en qué plazo caduca si no se ratifica?,0.8755456349206348,0.8,1.0
+6,hard,Explique la obligación de los poderes del Estado de prestar juramento a la Constitución reformada de 1994 y dónde se encuentra.,1.0,1.0,1.0
+6,hard,¿Qué requisitos de edad y ciudadanía debe cumplir un candidato a senador y dónde se regulan?,0.9428571428571428,0.5,1.0
+6,hard,"Si se produce una vacante en la Presidencia y Vicepresidencia, ¿cómo se determina quién ejerce el Poder Ejecutivo?",1.0,1.0,1.0
+6,hard,¿Qué criterios debe contemplar el Congreso al fijar el presupuesto general de gastos y cálculo de recursos?,0.8857142857142857,0.6,1.0
+6,hard,¿Qué sanciones prevé la Constitución para los autores de actos de fuerza que interrumpan el orden democrático?,0.9060405643738976,0.9,1.0
+6,hard,Explique la relación entre el derecho a un ambiente sano y la obligación de recomposición del daño ambiental.,0.7738095238095238,0.7,1.0
+6,hard,¿Qué requisitos de quórum y simultaneidad rigen para que las Cámaras sesionen ordinariamente?,1.0,0.9,1.0
+6,hard,¿Qué garantías laborales y de seguridad social reconoce el artículo 14 bis y quién es responsable de otorgarlas?,1.0,0.9,1.0
+6,hard,¿Cómo se determina la base poblacional para la elección de diputados y con qué frecuencia puede modificarse?,0.9472222222222222,0.8,1.0
+6,hard,¿Qué funciones ejerce el Presidente como comandante en jefe de las Fuerzas Armadas y bajo qué control del Congreso?,0.8782627865961198,0.9,1.0
+6,hard,¿Qué facultades exclusivas conserva el Congreso sobre el territorio de la Capital de la Nación y cómo se limita la policía provincial en esos establecimientos?,1.0,1.0,1.0
+6,hard,"¿Qué principios rigen la distribución de recursos coparticipables entre Nación, provincias y Ciudad de Buenos Aires?",0.7736111111111109,0.6,1.0
+6,hard,¿Cómo protege la Constitución la libertad de prensa y qué restricciones impone al Congreso al respecto?,1.0,1.0,1.0
+6,hard,¿Qué condiciones se requieren para la creación de nuevas provincias dentro de la Nación?,1.0,1.0,1.0
+6,hard,¿Qué artículo constitucional permite fundamentar el derecho a solicitar la eliminación de datos personales de una base de datos privada en Internet?,0.7291666666666666,0.4,1.0
+6,hard,¿Qué norma constitucional habilita la aplicación de principios internacionales como el derecho al olvido digital?,1.0,1.0,1.0
+6,hard,¿Qué artículo puede invocarse para cuestionar la vigilancia masiva del Estado a través de tecnologías digitales?,0.8782627865961198,0.9,1.0
+6,hard,¿Qué disposición constitucional protege a una persona cuyo correo electrónico fue intervenido sin orden judicial?,0.855952380952381,0.7,1.0
+6,hard,¿Qué artículos respaldan el reclamo ante una empresa por el uso indebido de datos biométricos obtenidos mediante una aplicación móvil?,0.9159722222222222,0.8,1.0
+6,hard,¿Qué base constitucional sostiene el derecho a expresar opiniones políticas en redes sociales sin censura previa?,0.908531746031746,0.8,1.0
+6,hard,¿Qué norma constitucional puede usarse para defender la neutralidad de la red como principio de acceso equitativo a Internet?,1.0,1.0,1.0

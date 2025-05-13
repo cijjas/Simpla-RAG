@@ -1,25 +1,141 @@
 # rag_metrics/metrics.py
+from typing import List, Sequence
 from .similarity import EmbeddingModel
+from difflib import SequenceMatcher
+import math
 
 class RAGMetrics:
-    def __init__(self, model_name="all-MiniLM-L6-v2"):
+    """
+    Métricas de evaluación para un pipeline RAG.
+    Todas las similitudes usan embeddings mediante EmbeddingModel.similarity(a, b) ∈ [0,1].
+    """
+
+    def __init__(self, model_name: str = "intfloat/e5-base-v2"):
         self.embedder = EmbeddingModel(model_name)
 
-    def context_precision(self, contexts, ground_truth, threshold=0.7):
+    # ─────────────────────────────────────────── retrieval / context
+
+    def _flags_relevant(
+        self, chunks: Sequence[str], reference: str, threshold: float
+    ) -> List[int]:
+        """Marca 1 si chunk es relevante al reference (similaridad ≥ threshold)."""
+        return [
+            1 if self.embedder.similarity(c, reference) >= threshold else 0
+            for c in chunks
+        ]
+
+    def context_precision(
+        self, contexts: Sequence[str], reference_answer: str, threshold: float = 0.4
+    ) -> float:
+        """
+        Context Precision@K — versión ponderada como en tu slide:
+            Σ_k Precision@k * v_k  /  (# relevantes en top‑K)
+        donde v_k = 1 si el chunk k‑ésimo es relevante.
+        """
         if not contexts:
             return 0.0
-        relevant = sum(
-            1 for ctx in contexts if self.embedder.similarity(ctx, ground_truth) >= threshold
-        )
-        return relevant / len(contexts)
 
-    def context_recall(self, contexts, ground_truth):
-        combined_context = " ".join(contexts)
-        return self.embedder.similarity(combined_context, ground_truth)
+        flags = self._flags_relevant(contexts, reference_answer, threshold)
+        total_relevant_topk = sum(flags)
+        if total_relevant_topk == 0:
+            return 0.0
 
-    def faithfulness(self, contexts, answer):
-        combined_context = " ".join(contexts)
-        return self.embedder.similarity(answer, combined_context)
+        cum_rel = 0
+        weighted_precision = 0.0
+        for k, is_rel in enumerate(flags, start=1):
+            if is_rel:
+                cum_rel += 1
+                weighted_precision += (cum_rel / k)
 
-    def answer_relevance(self, question, answer):
+        return weighted_precision / total_relevant_topk
+
+    def context_recall(
+        self, contexts: Sequence[str], reference_answer: str
+    ) -> float:
+        """
+        Context Recall — ¿cuánto del ground‑truth está cubierto por el contexto?
+        Aproximación: similitud ref‑vs‑contextos concatenados.
+        """
+        if not contexts:
+            return 0.0
+        combined = " ".join(contexts)
+        return self.embedder.similarity(reference_answer, combined)
+
+    # ─────────────────────────────────────────── faithfulness / relevance
+
+    def faithfulness(
+        self,
+        contexts: Sequence[str],
+        model_answer: str,
+        reference_answer: str | None = None,
+    ) -> float:
+        """
+        Evalúa si la respuesta está sustentada por el contexto.
+        - Siempre compara respuesta vs contexto.
+        - Si hay ground‑truth, promedia con respuesta vs referencia
+          (puedes cambiar a min() o producto geométrico si prefieres ser más estricto).
+        """
+        if not contexts:
+            return 0.0
+        combined = " ".join(contexts)
+        sim_ctx = self.embedder.similarity(model_answer, combined)
+
+        if reference_answer:
+            sim_ref = self.embedder.similarity(model_answer, reference_answer)
+            return (sim_ctx + sim_ref) / 2
+        return sim_ctx
+
+    def answer_relevance(self, question: str, answer: str) -> float:
+        """¿Qué tan bien la respuesta atiende la pregunta?"""
         return self.embedder.similarity(question, answer)
+
+    # ─────────────────────────────────────────── métricas extra
+
+    def answer_correctness(self, reference_answer: str, model_answer: str) -> float:
+        """Similitud semántica respuesta generada vs ground‑truth."""
+        return self.embedder.similarity(reference_answer, model_answer)
+
+    def retrieval_precision_at_k(
+        self,
+        contexts: Sequence[str],
+        reference_answer: str,
+        k: int = 5,
+        threshold: float = 0.4,
+    ) -> float:
+        """Precision@k clásica."""
+        if not contexts:
+            return 0.0
+        topk = contexts[:k]
+        flags = self._flags_relevant(topk, reference_answer, threshold)
+        return sum(flags) / len(topk)
+
+    def retrieval_recall_at_k(
+        self,
+        contexts: Sequence[str],
+        reference_answer: str,
+        k: int = 5,
+        threshold: float = 0.4,
+    ) -> float:
+        """Recall@k clásica."""
+        if not contexts:
+            return 0.0
+        flags_all = self._flags_relevant(contexts, reference_answer, threshold)
+        total_relevant = sum(flags_all)
+        if total_relevant == 0:
+            return 0.0
+        flags_topk = flags_all[:k]
+        return sum(flags_topk) / total_relevant
+
+    def rouge_l(self, reference: str, hypothesis: str) -> float:
+        """
+        ROUGE‑L F-score basado en LCS (longest common subsequence).
+        Sencillo y sin peso β (usa β=1).
+        """
+        matcher = SequenceMatcher(None, reference, hypothesis)
+        lcs = sum(triple.size for triple in matcher.get_matching_blocks())
+        if lcs == 0:
+            return 0.0
+        prec = lcs / len(hypothesis)
+        rec = lcs / len(reference)
+        return 2 * prec * rec / (prec + rec)
+

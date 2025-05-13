@@ -1,0 +1,17 @@
+metric,difficulty,variance
+rouge_l,easy,0.010760285314365568
+rouge_l,hard,0.004709618644582717
+retrieval_rec,easy,0.00730666666666667
+retrieval_rec,hard,3.944773175542381e-05
+retrieval_prec,easy,0.0014746666666666675
+retrieval_prec,hard,0.0006324260355029585
+context_precision,easy,0.0016846389351730683
+context_precision,hard,0.000180168553496189
+answer_relevance,easy,0.0002863427538471449
+answer_relevance,hard,0.000459132008789027
+answer_correctness,easy,0.0002589009161482434
+answer_correctness,hard,4.718856120687047e-05
+faithfulness,easy,5.266356666019078e-05
+faithfulness,hard,1.3100279686855242e-05
+context_recall,easy,1.2189713561241268e-05
+context_recall,hard,2.9217620694232484e-05
