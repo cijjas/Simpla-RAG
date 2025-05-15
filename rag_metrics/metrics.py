@@ -7,7 +7,6 @@ import math
 class RAGMetrics:
     """
     Métricas de evaluación para un pipeline RAG.
-    Todas las similitudes usan embeddings mediante EmbeddingModel.similarity(a, b) ∈ [0,1].
     """
 
     def __init__(self, model_name: str = "intfloat/e5-base-v2"):
@@ -24,6 +23,7 @@ class RAGMetrics:
             for c in chunks
         ]
 
+    # cuantos documentos relevantes hay en el top-k
     def context_precision(
         self, contexts: Sequence[str], reference_answer: str, threshold: float = 0.4
     ) -> float:
@@ -49,6 +49,8 @@ class RAGMetrics:
 
         return weighted_precision / total_relevant_topk
 
+
+    # evalua que tan bien estas retriveando
     def context_recall(
         self, contexts: Sequence[str], reference_answer: str
     ) -> float:
@@ -63,6 +65,7 @@ class RAGMetrics:
 
     # ─────────────────────────────────────────── faithfulness / relevance
 
+    # model answer vs context + model answer vs reference / 2
     def faithfulness(
         self,
         contexts: Sequence[str],
@@ -73,7 +76,6 @@ class RAGMetrics:
         Evalúa si la respuesta está sustentada por el contexto.
         - Siempre compara respuesta vs contexto.
         - Si hay ground‑truth, promedia con respuesta vs referencia
-          (puedes cambiar a min() o producto geométrico si prefieres ser más estricto).
         """
         if not contexts:
             return 0.0
@@ -85,16 +87,18 @@ class RAGMetrics:
             return (sim_ctx + sim_ref) / 2
         return sim_ctx
 
+    #  question vs answer (medio raro queres que baje)
     def answer_relevance(self, question: str, answer: str) -> float:
         """¿Qué tan bien la respuesta atiende la pregunta?"""
         return self.embedder.similarity(question, answer)
 
-    # ─────────────────────────────────────────── métricas extra
-
+    # reference vs model ligado a faithfullness
     def answer_correctness(self, reference_answer: str, model_answer: str) -> float:
         """Similitud semántica respuesta generada vs ground‑truth."""
         return self.embedder.similarity(reference_answer, model_answer)
 
+
+    
     def retrieval_precision_at_k(
         self,
         contexts: Sequence[str],

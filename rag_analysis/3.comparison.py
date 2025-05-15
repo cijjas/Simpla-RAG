@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("your_data.csv")
+df = pd.read_csv("combined_data.csv")
 df.rename(columns={
     "retrieval_prec@5": "retrieval_prec",
     "retrieval_rec@5": "retrieval_rec"
